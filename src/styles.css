@@ -3,18 +3,18 @@
   text-align: center;
 }
 
-.box{
+.box {
   width: 50px;
   height: 50px;
-  border: 1px solid 
+  border: 1px solid;
 }
 
-.boxWrapper{
+.boxWrapper {
   display: flex;
   gap: 1rem;
-  padding-bottom: 1rem
+  padding-bottom: 1rem;
 }
 
-.blue{
-  background-color: blue
+.blue {
+  background-color: blue;
 }
