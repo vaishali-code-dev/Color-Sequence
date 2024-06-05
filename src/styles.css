@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box{
+  width: 50px;
+  height: 50px;
+  border: 1px solid 
+}
+
+.boxWrapper{
+  display: flex;
+  gap: 1rem;
+  padding-bottom: 1rem
+}
+
+.blue{
+  background-color: blue
+}
